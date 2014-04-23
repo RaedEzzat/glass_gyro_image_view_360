@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Launch-related strings. -->
+    <string name="app_name">GyroImageView</string>
+    <string name="show_view_activity_voice_trigger">Show mee</string>
+    
+    <!-- Menu item strings. -->
+    <string name="zoom">Zoom</string>
+    <string name="stop">Stop</string>
+
+</resources>
